@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+}
+.margin{
+    margin-top: 80px;
+}
+.table{
+    background-color: whitesmoke;
+}
+.table tr{
+    width: 40%;
+    overflow: hidden;
+}
+.table tbody{
+    font-size: 12px;
+}
